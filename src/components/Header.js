@@ -27,6 +27,7 @@ const Header = () => {
               smooth={true}
               duration={500}
               offset={-headerHeight}
+              className=" cursor-pointer"
             >
               서비스 소개
             </Link>
@@ -35,6 +36,7 @@ const Header = () => {
               smooth={true}
               duration={500}
               offset={-headerHeight}
+              className=" cursor-pointer"
             >
               서비스 유형
             </Link>
@@ -43,6 +45,7 @@ const Header = () => {
               smooth={true}
               duration={500}
               offset={-headerHeight}
+              className=" cursor-pointer"
             >
               도입 혜택
             </Link>
@@ -51,6 +54,7 @@ const Header = () => {
               smooth={true}
               duration={500}
               offset={-headerHeight}
+              className=" cursor-pointer"
             >
               주요 고객사
             </Link>
@@ -59,6 +63,7 @@ const Header = () => {
               smooth={true}
               duration={500}
               offset={-headerHeight}
+              className=" cursor-pointer"
             >
               가맹점 가입신청
             </Link>
